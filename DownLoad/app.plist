@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>items</key>
-    <array>
-        <dict>
-            <key>assets</key>
-            <array>
-                <dict>
-                    <key>kind</key>
-                    <string>software-package</string>
-                    <key>url</key>
-                    <string>https://github.com/paipaiwish/iospublish/raw/master/DownLoad/Pdear_0111205825.ipa</string>
-                </dict>
-            </array>
-            <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-    <string>ying li</string>
-                <key>bundle-version</key>
-                <string>1.1.0110003</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>拍dear</string>
-            </dict>
-        </dict>
-    </array>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://github.com/paipaiwish/iospublish/raw/master/DownLoad/Pdear_0111205825.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>io.dcloud.pdear</string>
+				<key>bundle-version</key>
+				<string>1.1.0110003</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>拍dear</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
