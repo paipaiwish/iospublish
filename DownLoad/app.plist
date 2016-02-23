@@ -11,15 +11,15 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/paipaiwish/iospublish/raw/master/DownLoad/Pdear_0111205825.ipa</string>
+					<string>https://github.com/paipaiwish/iospublish/raw/master/DownLoad/Pdear.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>io.dcloud.pdear</string>
+				<string>com.dcloud.pdear</string>
 				<key>bundle-version</key>
-				<string>1.1.0110003</string>
+				<string>1.1.0219001</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
